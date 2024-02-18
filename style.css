@@ -1,0 +1,132 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+width:80%;
+display:center;
+margin-left:10%;
+border-radius:10%;
+}
+.left{
+    background-color:#0C2E56;
+    width: 25%;
+    height: 158%;
+    float: left;
+    color:white;
+    
+}
+.right{
+    background-color:#E8E4E7;
+    width: 75%;
+    height: 158%;
+    float: right;
+    color: #0C2E56;
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: 5px solid white;
+}
+.contact{
+    margin-left: 30px;
+    .hr1{
+        width: 74%;
+        text-align: left;
+        margin-left: 0;
+    }
+    .fa-solid fa-phone{
+        color: yellow;
+    }
+    
+}
+.skills{
+    margin-left: 30px;
+    .hr2{
+        width: 50%;
+        text-align: left;
+        margin-left: 0;
+    }
+    .ul2{
+        list-style-type:square;
+    }
+}
+.language{
+    margin-left: 30px;
+    .hr3{
+        width: 50%;
+        text-align: left;
+        margin-left: 0;
+    }
+    .ul3{
+        list-style-type:square;
+    }
+}
+.hobbies{
+    .hr7{
+        width: 45%;
+        text-align: left;
+        margin-left: 0;
+    }
+    .ul4{
+        list-style-type:square;
+    }
+    margin-left: 30px;
+}
+.certificates{
+        .hr8{
+            width: 45%;
+            text-align: left;
+            margin-left: 0;
+        }
+        .ul5{
+            list-style-type:square;
+        }
+        margin-left: 30px;
+}
+.header{
+    
+    background-color: #0C2E56;
+    color: white;
+    position: relative;
+    padding-top: 10px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 100%;
+}
+.profile{
+    .hr4{
+        width: 98%;
+        text-align: left;
+        margin-left: 0;
+    }
+    margin-left: 30px;
+    
+}
+.internship{
+    .hr5{
+        width: 30%;
+        text-align: left;
+        margin-left: 0;
+    }
+    margin-left: 30px;
+    
+}
+.education{
+    .hr6{
+        width: 37%;
+        text-align: left;
+        margin-left: 0;
+    }
+    margin-left: 30px;
+    
+}
+.projects{
+    .hr7{
+        width: 98%;
+        text-align: left;
+        margin-left: 0;
+    }
+    margin-left: 30px;
+}
